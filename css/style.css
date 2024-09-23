@@ -1,0 +1,12 @@
+body{
+    background-color: #e9ebf4;
+}
+
+.edit-result{
+    color: #fff;
+    background-color: rgb(235, 56, 47);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    transition: all .75s linear;
+}
